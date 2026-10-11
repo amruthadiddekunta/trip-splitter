@@ -53,6 +53,4 @@ I would expand test coverage for edge cases in percentage and exact splits, veri
 
 ## AI Tool Usage
 
-## AI Assistance
-
 AI tools were used to understand the project workflow, assist with code implementation and enhancement, identify and rectify errors, and prepare project documentation. They also helped improve code comments and the README's clarity and structure. AI-generated suggestions were reviewed, and testing and manual checks were used to validate the application before submission.
